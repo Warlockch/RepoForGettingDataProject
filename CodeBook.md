@@ -16,7 +16,7 @@ featCount        | Feature: Count of data points used to compute `average`
 featAverage      | Feature: Average of each variable for each activity and each subject
 
 ```r
-str(dtTidy)
+str(TidyData)
 ```
 ```
 Classes ‘data.table’ and 'data.frame':  11880 obs. of  11 variables:
